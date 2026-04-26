@@ -8,4 +8,4 @@ General-purpose humanoid research. Built on the Unitree G1.
 
 ---
 
-Solo project.
+In development.
