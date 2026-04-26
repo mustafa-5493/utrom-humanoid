@@ -1,6 +1,6 @@
 # Utrom
 
-General-purpose humanoid research. Built on the Unitree G1.
+
 
 ## Demo
 
